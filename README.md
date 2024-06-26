@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas,ao meu perfil!!!🤙
 
-<!--
-**Caio998/Caio998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Caio Vinicius
 
-Here are some ideas to get you started:
+- estou estudando alura
+- estou me envolvendo na linguagem javaScript
+- utilizo esse espaço para mnha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### pode entrar em contato comigo
+
+ 00001113651313sp@aluno.educacao.sp.gov.br
+  
+![](https://tenor.com/pt-BR/view/gareth-southgate-gif-18360492)
